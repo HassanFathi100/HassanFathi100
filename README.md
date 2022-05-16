@@ -1,5 +1,5 @@
 # Hassan Fathi Shalkamy
-Senior Systems and Biomedical Bachelor's degree at Cairo University Faculty of Engineering. Intrested in FrontEnd development and test performance and test cases automation. 
+Systems and Biomedical Engineering Senior Student at Cairo University. Interested in Front End development and performance testing, and UI Test Automation.
 ## 📝 Resume 
 
 <a href="https://drive.google.com/file/d/1Mk4pQ8ys319UZ_p0D420p1n2RmJzkoVw/view?usp=sharing" type="application/pdf">
