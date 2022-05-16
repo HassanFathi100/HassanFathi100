@@ -1,5 +1,5 @@
-# Yasser Nasser Ahmed
-A Senior Systems & Biomedical Engineering Student who is interested in developing software and loves to learn more.
+# Hassan Fathi Shalkamy
+Senior Systems and Biomedical Bachelor's degree at Cairo University Faculty of Engineering. Intrested in FrontEnd development and test performance and test cases automation. 
 ## 📝 Resume 
 
 <a href="https://drive.google.com/file/d/1Mk4pQ8ys319UZ_p0D420p1n2RmJzkoVw/view?usp=sharing" type="application/pdf">
@@ -37,12 +37,6 @@ A Senior Systems & Biomedical Engineering Student who is interested in developin
 <code><img height="20" alt="JUnit" src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png"></code>
 <code><img height="20" alt="Cucumber" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png"></code>
 <code><img height="20" alt="JMeter" src="https://jmeter.apache.org/images/jmeter_square.svg"></code>
-
-
-## Desktop GUI
-<code><img height="20" alt="python" src="https://i.imgur.com/SJzjyHp.png"></code>
-<code><img height="20" alt="python" src="https://i.imgur.com/SJzjyHp.png"></code>
-<code><img height="20" alt="python" src="https://i.imgur.com/SJzjyHp.png"></code>
 
 ## MISC
 
